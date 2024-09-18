@@ -1,0 +1,1 @@
+This is a practice project of Excel where two country's data sets were given. Here I analyzed data of staff members from New Zealand and India. And built a interactive dashboard to compare both countries.
